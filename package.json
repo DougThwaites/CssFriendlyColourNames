@@ -1,0 +1,23 @@
+{
+  "name": "cssfriendlycolournames",
+  "version": "1.5.1",
+  "description": "CSS colour names spaced out to be human readable.",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "main": "FriendlyCssColourNames.json",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DougThwaites/CssFriendlyColourNames.git"
+  },
+  "keywords": [
+  ],
+  "author": "Doug Thwaites",
+  "license": "MIT",
+  "bugs": {
+  },
+  "homepage": "https://dougthwaites.nz"
+}
